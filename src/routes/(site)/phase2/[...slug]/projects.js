@@ -134,8 +134,8 @@ const projects = [
             {
                 id: 5,
                 name: "timed_sale_list_15minutes",
-                title: "Timed Quest: List NFT 15 minutes after listing on High Forge",
-                description: "Timed Quest: List NFT 15 minutes after listing on High Forge",
+                title: "Timed Quest: List NFT 15 minutes after mint on High Forge",
+                description: "Timed Quest: List NFT 15 minutes after mint on High Forge",
                 status: null,
                 reward: 1,
             },
